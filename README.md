@@ -1,4 +1,4 @@
-#  Mychat
+#  MyChat
 ## _Setting up chatrooms using BLAB AX_
 
 [![N|Solid](https://justblab.com/img/bws_screen.png)](https://justblab.com/blabax-php-ajax-website-chat-software)
